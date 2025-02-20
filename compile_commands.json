@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-fPIC",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/nightwatch.o",
+      "src/nightwatch.c"
+    ],
+    "directory": "/home/sharon/Qaccess/projects/libraries/nightwatch",
+    "file": "/home/sharon/Qaccess/projects/libraries/nightwatch/src/nightwatch.c",
+    "output": "/home/sharon/Qaccess/projects/libraries/nightwatch/build/nightwatch.o"
+  }
+]
